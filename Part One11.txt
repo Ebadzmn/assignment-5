@@ -1,11 +1,21 @@
 Assignment part 1
 
 
-1. In web development, client-side refers to the execution of code on the user's device (usually a web browser), while server-side refers to the execution of code on the web server. The main difference between the two is that client-side code runs on the user's device and is responsible for handling the user interface and user interactions, while server-side code runs on the web server and is responsible for processing requests, managing data, and generating dynamic content.
+1. In web development, client-side refers to the execution of code on the user's device (usually a web browser), 
+while server-side refers to the execution of code on the web server.
+The main difference between the two is that client-side code runs on the user's device and is responsible for handling the user interface and user interactions,
+while server-side code runs on the web server and is responsible for processing requests, managing data, and generating dynamic content.
 
 
 
-2. An HTTP request is a message sent by a client (such as a web browser) to a server, requesting a specific action to be performed. There are several types of HTTP requests, including GET (retrieve a resource), POST (submit data to be processed), PUT (update a resource), DELETE (remove a resource), and more. Each type of request is used for a specific purpose and has its own set of rules and conventions.
+2. An HTTP request is a message sent by a client (such as a web browser) to a server, 
+requesting a specific action to be performed. 
+There are several types of HTTP requests, 
+including GET (retrieve a resource), 
+POST (submit data to be processed), 
+PUT (update a resource), 
+DELETE (remove a resource), and more. 
+Each type of request is used for a specific purpose and has its own set of rules and conventions.
 
 
 
