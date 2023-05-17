@@ -19,13 +19,24 @@ Each type of request is used for a specific purpose and has its own set of rules
 
 
 
-3. JSON (JavaScript Object Notation) is a lightweight data interchange format commonly used in web development. It provides a structured way to represent data as key-value pairs and arrays. JSON is widely used for transmitting data between a client and a server because it is easy to read and write for both humans and machines. It is often used in APIs to exchange data between different systems or components.
+3. JSON (JavaScript Object Notation) is a lightweight data interchange format commonly used in web development. 
+It provides a structured way to represent data as key-value pairs and arrays. 
+JSON is widely used for transmitting data between a client and a server because it is easy to read and write for both humans and machines. 
+It is often used in APIs to exchange data between different systems or components.
 
 
 
-4. In web development, middleware is software that sits between the client and the server, intercepting and processing requests and responses. It acts as a bridge, adding additional functionality or processing to the standard request-response cycle. For example, in an Express.js application, middleware functions can be used to handle tasks such as logging, authentication, error handling, or parsing request data. Middleware provides a way to modularize and reuse common functionalities across different routes or endpoints.
+4. In web development, middleware is software that sits between the client and the server, 
+intercepting and processing requests and responses. 
+It acts as a bridge, adding additional functionality or processing to the standard request-response cycle.
+For example, in an Express.js application, middleware functions can be used to handle tasks such as 
+logging, authentication, error handling, or parsing request data. 
+Middleware provides a way to modularize and reuse common functionalities across different routes or endpoints.
 
 
-5. In web development, a controller is a component that handles user requests and orchestrates the flow of data in the Model-View-Controller (MVC) architecture. The controller receives input from the user, interacts with the model (data layer), and updates the view (user interface) accordingly. It acts as the intermediary between the user and the underlying data, ensuring that the appropriate data is fetched, processed, and presented to the user. The controller's role is to handle business logic, make decisions, and control the overall behavior of the application. 
+5. In web development, a controller is a component that handles user requests and orchestrates the flow of data in the Model-View-Controller (MVC) architecture.
+ The controller receives input from the user, interacts with the model (data layer), and updates the view (user interface) accordingly. 
+ It acts as the intermediary between the user and the underlying data, ensuring that the appropriate data is 
+ fetched, processed, and presented to the user. The controller's role is to handle business logic, make decisions, and control the overall behavior of the application. 
 
 END.
